@@ -3,9 +3,9 @@
 This project is to classify bird images of 555 kinds.
 
 ### Video
-
+https://drive.google.com/file/d/1UZy1SMEa6z5TvP5e39JkWtdsJn4zZgGZ/view?usp=sharing
 ### Code
-https://colab.research.google.com/drive/1LtwOPv8OmH1J12qPN8CuDUMZ4xjwBP7V?authuser=2#scrollTo=R0Rpz-wIH_-x
+https://colab.research.google.com/drive/1LtwOPv8OmH1J12qPN8CuDUMZ4xjwBP7V?authuser=2#scrollTo=QfNBKXAXdD8u
 ### Previous work (including what you used for your method i.e. pretrained models)  
 I use a widely pertained image classification model, which is Resnet50.
 The code is based on code provided by instructor.
