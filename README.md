@@ -2,7 +2,12 @@
 ### Problem description 
 This project is to classify bird images of 555 kinds.
 
-### Video
+### DataSet
+Our dataset includes 7.42G training images and 1.92G testing images. The training images of one type are in different folders. We also have a csv file which maps each folder to a type name.
+
+### Video overview
+https://drive.google.com/file/d/1_vqr9Aho951UMGMDG8pVzSU9rWETi4GP/view?usp=sharing
+### Video about changes
 https://drive.google.com/file/d/1UZy1SMEa6z5TvP5e39JkWtdsJn4zZgGZ/view?usp=sharing
 ### Code
 https://colab.research.google.com/drive/1LtwOPv8OmH1J12qPN8CuDUMZ4xjwBP7V?authuser=2#scrollTo=QfNBKXAXdD8u
