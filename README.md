@@ -14,7 +14,7 @@ https://colab.research.google.com/drive/1LtwOPv8OmH1J12qPN8CuDUMZ4xjwBP7V?authus
 ### Previous work (including what you used for your method i.e. pretrained models)  
 I use a widely pertained image classification model, which is Resnet50.
 The code is based on code provided by instructor.
-### Your approach  
+### My approach  
 Use transfer learning technique to transfer image classification model resnet50 to this bird classification task. In this way I can use a already trained model instead of starting training from scratch. I first split the training dataset to train and validation set with ratio 1:10. Then resize and do some data augmentation on training data. During the training process, I start with Resnet50, then train with learning rate 0.01 for several epochs, then descend the learning rate to 0.001 and then train with another several epochs. Finally, do the labeling on test data with multi view labeling.
 ### Results  
 My accuracy is 80% on testing data and 90% on training data. The training loss is eventually 0.4.
